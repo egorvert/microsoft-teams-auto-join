@@ -6,7 +6,6 @@
 
  ````
  pip install pyautogui time datetime
-
  ````
 
 ## Usage
